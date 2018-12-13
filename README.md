@@ -39,4 +39,4 @@ what?
 si is it?
 agaub!
 
-Cloned somewhere else-create conflict
+bah -create conflict - no resolved it.
