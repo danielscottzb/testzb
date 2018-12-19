@@ -40,3 +40,6 @@ si is it?
 agaub!
 
 bah -create conflict - no resolved it.
+## Now we got problems>editing from intellij.
+* 1
+* 2
