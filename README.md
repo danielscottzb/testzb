@@ -45,3 +45,4 @@ bah -create conflict - no resolved it.
 * 2 (here we changed in intellij)
 * 3 (not sure, but text file this time)
 * 4 (lets change this in intellij and merge together)
+* 5 text
