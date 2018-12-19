@@ -43,4 +43,3 @@ bah -create conflict - no resolved it.
 ## Now we got problems>editing from intellij.
 * 1 (we can change this here --)
 * 2 (here we changed in intellij)
-* 2 (here we changed in text file), then merged.
